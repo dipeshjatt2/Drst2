@@ -9,17 +9,17 @@
     ],
     "env": {
             "API_ID": {
-            "description": "Your API_ID from https://my.telegram.org/apps #NtrRazYt",
+            "description": "22118129",
             "value": "",
             "required": true
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps #NtrRazYt",       
+            "description": "43c66e3314921552d9330a4b05b18800",       
             "value": "",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your Bot token from @Botfather #NtrRazYt",
+            "description": "7384767506:AAElEB0m8ZRvIj8h-WkgeETPghwyNfzcPz8",
             "value": "",
             "required": true
         }
